@@ -4,39 +4,39 @@ FocusFlow is a responsive, interactive productivity dashboard developed using Re
 
 ## 🚀 Key Features
 
-- **Pomodoro Timer:** Countdown-based focus sessions with sound notifications to support time management and productivity.
-- **Task Management:** Add, update, complete, and delete tasks using CRUD operations.
-- **Progress Tracking:** Monitor task completion and productivity progress.
-- **Session History:** Maintain and view previous focus sessions.
-- **Customizable Settings:** Configure focus and break durations.
-- **Dark/Light Mode:** Switch between light and dark themes.
-- **Interactive Dashboard:** User-friendly interface with organized productivity components.
-- **Browser Data Persistence:** Store application data using Local Storage.
+- Pomodoro Timer: Countdown-based focus sessions with sound notifications to support time management and productivity.
+- Task Management: Add, update, complete, and delete tasks using CRUD operations.
+- Progress Tracking: Monitor task completion and productivity progress.
+- Session History: Maintain and view previous focus sessions.
+- Customizable Settings: Configure focus and break durations.
+- Dark/Light Mode: Switch between light and dark themes.
+- Interactive Dashboard: User-friendly interface with organized productivity components.
+- Browser Data Persistence: Store application data using Local Storage.
 
 ## 🛠️ Technology Stack
 
 ### Frontend Development
-- **React.js:** Component-based frontend development.
-- **JavaScript (ES6+):** Application logic, event handling, and interactive functionality.
-- **HTML5:** Semantic structure and content organization.
-- **CSS3:** Styling, layouts, and responsive web design.
+- React.js: Component-based frontend development.
+- JavaScript (ES6+): Application logic, event handling, and interactive functionality.
+- HTML5: Semantic structure and content organization.
+- CSS3: Styling, layouts, and responsive web design.
 
 ### React.js Concepts
-- **Functional Components:** Building reusable UI components.
-- **React Hooks:** useState, useEffect, useContext, and useRef.
-- **Context API:** Shared state management across components.
-- **React Router:** Client-side routing and navigation.
-- **Component-Based Architecture:** Modular and maintainable application structure.
-- **Conditional Rendering:** Displaying UI elements based on application state.
+- Functional Components: Building reusable UI components.
+- React Hooks: useState, useEffect, useContext, and useRef.
+- Context API: Shared state management across components.
+- React Router: Client-side routing and navigation.
+- Component-Based Architecture: Modular and maintainable application structure.
+- Conditional Rendering: Displaying UI elements based on application state.
 
 ### Browser Storage
-- **Local Storage:** Client-side data persistence using browser storage.
+- Local Storage: Client-side data persistence using browser storage.
 
 ### Development Tools
-- **Vite:** Frontend development server and build tool.
-- **npm:** Package and dependency management.
-- **Git:** Version control.
-- **GitHub:** Source code management and repository hosting.
+- Vite: Frontend development server and build tool.
+- npm: Package and dependency management.
+- Git: Version control.
+- GitHub: Source code management and repository hosting.
 
 ## ⚛️ Technical Concepts Implemented
 
